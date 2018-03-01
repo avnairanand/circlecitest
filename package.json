@@ -47,7 +47,7 @@
     "q": "latest",
     "request": "latest",
     "shelljs": "latest",
-    "snyk": "^1.17.5",
+    "snyk": "latest"
     "view-helpers": "latest"
   },
   "devDependencies": {
